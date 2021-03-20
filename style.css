@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+#image1{
+    margin-right: 50px;
+}
+#image2{
+    margin-left: 50px;
+    cursor: zoom-in;
+}
+h2{
+    cursor: pointer;
+}
+.section{
+    background-color: blanchedalmond;
+}
+.head{
+    background-color: cornsilk
+}
